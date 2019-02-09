@@ -1,0 +1,8 @@
+# IntelliJ Projects
+.idea
+
+# Jupyter
+notebooks/.ipynb_checkpoints
+
+# Python
+venv
